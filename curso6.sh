@@ -1,5 +1,7 @@
 #!/bin/bash
 #swich case
+#En este script le estoy diciendo que ingrese una letra sea la A o la B si ingresa cualquiera que no sean estas
+#salen distintas reseñas
 
 opcion=""
 
